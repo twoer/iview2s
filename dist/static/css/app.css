@@ -1,0 +1,50 @@
+
+html {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  height: 100%;
+}
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.root-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.index[data-v-5b563377] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.index .ivu-row[data-v-5b563377] {
+    position: relative;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+}
+.index .ivu-row .ivu-col[data-v-5b563377] {
+      position: relative;
+      height: 100%;
+}
+.index .ivu-row .main > div[data-v-5b563377] {
+      padding: 10px;
+}
+.index .ivu-menu[data-v-5b563377] {
+    height: 100%;
+    width: 100% !important;
+}
