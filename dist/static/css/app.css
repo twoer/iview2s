@@ -23,7 +23,7 @@ body {
           flex: 1;
 }
 
-.index[data-v-5b563377] {
+.index[data-v-8033f52a] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -31,20 +31,68 @@ body {
       -ms-flex: 1;
           flex: 1;
 }
-.index .ivu-row[data-v-5b563377] {
+.index .ivu-row[data-v-8033f52a] {
     position: relative;
     -webkit-box-flex: 1;
         -ms-flex: 1;
             flex: 1;
 }
-.index .ivu-row .ivu-col[data-v-5b563377] {
+.index .ivu-row .ivu-col[data-v-8033f52a] {
       position: relative;
       height: 100%;
 }
-.index .ivu-row .main > div[data-v-5b563377] {
+.index .ivu-row .main > div[data-v-8033f52a] {
       padding: 10px;
 }
-.index .ivu-menu[data-v-5b563377] {
+.index .ivu-menu[data-v-8033f52a] {
     height: 100%;
     width: 100% !important;
+}
+
+.collapse .title[data-v-5f5b3e76] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 32px;
+  line-height: 1em;
+}
+.collapse .title .ivu-icon[data-v-5f5b3e76] {
+    margin-left: 2px;
+    margin-right: 6px;
+    margin-top: 2px;
+    color: #778198;
+    cursor: pointer;
+}
+.collapse .title span[data-v-5f5b3e76] {
+    cursor: pointer;
+}
+.collapse .content[data-v-5f5b3e76] {
+  padding: 8px 10px 8px 26px;
+}
+.fade-enter-active[data-v-5f5b3e76], .fade-leave-active[data-v-5f5b3e76] {
+  -webkit-transition: height .5s;
+  transition: height .5s;
+}
+.fade-enter[data-v-5f5b3e76], .fade-leave-to[data-v-5f5b3e76] {
+  height: 0px;
+}
+
+.shortcut-datepicker.align-right[data-v-01a9f523] {
+  text-align: right;
+}
+.shortcut-datepicker.align-left[data-v-01a9f523] {
+  text-align: left;
+}
+.shortcut-datepicker.align-center[data-v-01a9f523] {
+  text-align: center;
+}
+.shortcut-datepicker .ivu-btn-group[data-v-01a9f523] {
+  margin-right: 10px;
 }

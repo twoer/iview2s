@@ -6,6 +6,12 @@
           <MenuItem name="page">
             Page 分页
           </MenuItem>
+          <MenuItem name="collapse">
+            Collapse 折叠面板
+          </MenuItem>
+          <MenuItem name="shortcut-datepicker">
+            Datepicker 日期选择
+          </MenuItem>
         </Menu>
       </Col>
       <Col span="20" class="main">
